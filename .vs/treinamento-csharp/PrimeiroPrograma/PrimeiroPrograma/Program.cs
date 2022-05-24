@@ -34,12 +34,12 @@ Console.WriteLine("A multiplicação é: " + (a * b * c));
 Cliente clienteA = new Cliente();
 clienteA.Nome = "Douglas";
 clienteA.Sobrenome = "Fernandes";
-Console.WriteLine(clienteA.NomeCompleto());
+Console.WriteLine(clienteA.FaltaQuantosAnosPara(40));
 
-var clienteB = new Cliente(); //var - tipo implícito
+var clienteB = new Cliente(22); //var - tipo implícito
 clienteB.Nome = "Mythalie";
 clienteB.Sobrenome = "Sandretti";
-Console.WriteLine(clienteB.NomeCompleto());
+Console.WriteLine(clienteB.FaltaQuantosAnosPara(40));
 
 // Atribuindo as propriedades na criação
 Cliente clienteC = new Cliente()
