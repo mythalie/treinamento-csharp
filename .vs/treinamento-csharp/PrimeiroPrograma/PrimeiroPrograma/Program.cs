@@ -48,3 +48,8 @@ Cliente clienteC = new Cliente()
     Sobrenome = "Pedro"
 };
 Console.WriteLine(clienteC.NomeCompleto());
+
+Usuario usuario = new Usuario();
+usuario.Nome = "Douglas";
+usuario.email = "douglas.pereira@iteris.com.br";
+Console.WriteLine(usuario.ObterLogin());
