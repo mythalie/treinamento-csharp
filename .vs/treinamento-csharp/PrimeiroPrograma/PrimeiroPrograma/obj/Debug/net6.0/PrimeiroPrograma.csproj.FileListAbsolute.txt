@@ -1,0 +1,15 @@
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.exe
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.deps.json
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.runtimeconfig.json
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.dll
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.pdb
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.dll
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\refint\PrimeiroPrograma.dll
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.pdb
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.genruntimeconfig.cache
+C:\Treinamento C#\treinamento-csharp\.vs\treinamento-csharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\net6.0\ref\PrimeiroPrograma.dll

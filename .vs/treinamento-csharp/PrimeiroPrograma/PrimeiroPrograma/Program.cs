@@ -1,4 +1,6 @@
-﻿/*
+﻿using PrimeiroPrograma.Modelos;
+
+/*
 string a = Console.ReadLine();
 string b = Console.ReadLine();
 int numA = int.Parse(a);
@@ -14,7 +16,8 @@ Console.WriteLine("Digite o segundo número: ");
 int b = int.Parse(Console.ReadLine());
 
 Console.WriteLine("A soma é: " + (a + b));
-*/
+
+-------
 
 Console.WriteLine("Digite o primeiro número: ");
 double a = double.Parse(Console.ReadLine());
@@ -26,3 +29,22 @@ Console.WriteLine("Digite o terceiro número: ");
 double c = double.Parse(Console.ReadLine());
 
 Console.WriteLine("A multiplicação é: " + (a * b * c));
+*/
+
+Cliente clienteA = new Cliente();
+clienteA.Nome = "Douglas";
+clienteA.Sobrenome = "Fernandes";
+Console.WriteLine(clienteA.NomeCompleto());
+
+var clienteB = new Cliente(); //var - tipo implícito
+clienteB.Nome = "Mythalie";
+clienteB.Sobrenome = "Sandretti";
+Console.WriteLine(clienteB.NomeCompleto());
+
+// Atribuindo as propriedades na criação
+Cliente clienteC = new Cliente()
+{
+    Nome = "João",
+    Sobrenome = "Pedro"
+};
+Console.WriteLine(clienteC.NomeCompleto());
